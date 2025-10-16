@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmad Jamal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [timescoursefinder](https://timescoursefinder.com/)
+
 
 - 🌱 I’m currently learning **Astro js**
 
-- 👯 I’m looking to collaborate on [timesTx](https://www.timestx.com/)
+- 👯 I’v collaborate on [timesTx](https://www.timestx.com/)
 
-- 🤝 I’m also working on [times consolutant's website](https://timesconsultant.com/)
+- 🤝 I’v also worked on [times consolutant's website](https://timesconsultant.com/)
 
 - 💬 Ask me about **React,node js**
 
