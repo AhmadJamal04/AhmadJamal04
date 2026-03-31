@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Astro js**
+- 🌱 I’m currently working on [health care product](https://admin.metamed.ca)
 
 - 👯 I’v collaborate on [timesTx](https://www.timestx.com/)
 
