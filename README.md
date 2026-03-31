@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently working on [health care product](https://admin.metamed.ca)
+- 🌱 I’m currently working on [health care dashbaord](https://admin.metamed.ca)
 
 - 👯 I’v collaborate on [timesTx](https://www.timestx.com/)
 
